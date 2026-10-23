@@ -1,16 +1,32 @@
-## Hi there 👋
+## Bhavya Dadhich
 
-<!--
-**bhavya-dadhich22/bhavya-dadhich22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Master of Data Science & Analytics** — University of Calgary
+**B.Tech Computer Science & Engineering** — Manipal University Jaipur
 
-Here are some ideas to get you started:
+Building on a software engineering background, now focused on data analysis, statistical modelling and machine learning. Based in Calgary and looking for
+data science roles in Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & tools**
+Python · R · SQL · JavaScript · Java
+Node.js · Express · React · MongoDB · MySQL · OpenCV
+
+### Selected work
+
+**[Student Absenteeism and Academic Performance](https://github.com/bhavya-dadhich22/absenteeism-and-academic-performance)** · R
+Permutation tests, Welch t-tests and bootstrap confidence intervals across 480
+student records. Found a 45.7-point difference in high-performance rates
+between absence groups.
+
+**[Hybrid RAG Offline Chatbot](https://github.com/bhavya-dadhich22/hybrid-rag-offline-chatbot)** · Python
+Privacy-preserving retrieval-augmented generation over a local MySQL database
+using TF-IDF and cosine similarity.
+
+**[Image Filtering App](https://github.com/bhavya-dadhich22/image-filtering-app)** · Python
+Streamlit application for live image processing with OpenCV.
+
+**[Mini Blockchain — Proof of Work](https://github.com/bhavya-dadhich22/mini-blockchain-proof-of-work)** · Python
+A minimal blockchain implementation demonstrating proof-of-work consensus.
+
+---
+
+LinkedIn: https://www.linkedin.com/in/bhavya-dadhich/ | Email: bhavya.dadhich22@gmail.com
