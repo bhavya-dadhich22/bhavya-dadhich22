@@ -1,6 +1,7 @@
 ## Bhavya Dadhich
 
 **Master of Data Science & Analytics** — University of Calgary
+
 **B.Tech Computer Science & Engineering** — Manipal University Jaipur
 
 Building on a software engineering background, now focused on data analysis, statistical modelling and machine learning. Based in Calgary and looking for
