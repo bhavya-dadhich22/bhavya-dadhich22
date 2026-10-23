@@ -1,7 +1,7 @@
 ```
 Bhavya Dadhich
-B.Tech Computer Science & Engineering | Manipal University Jaipur
 Master of Data Science & Analytics | University of Calgary
+B.Tech Computer Science & Engineering | Manipal University Jaipur
 ```
 
 Building on a software engineering background, now focused on data analysis,
