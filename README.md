@@ -1,7 +1,7 @@
 ### Hey, I'm Bhavya 👋
 
-**Master of Data Science & Analytics** | University of Calgary  
-**B.Tech Computer Science & Engineering** | Manipal University Jaipur
+**Master of Data Science & Analytics** | **University of Calgary**  
+**B.Tech Computer Science & Engineering** | **Manipal University Jaipur**
 
 I’m a data science student with a background in computer science. I enjoy working with messy data, finding clear answers, and building useful tools.
 
