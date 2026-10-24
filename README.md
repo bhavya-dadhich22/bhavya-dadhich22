@@ -45,10 +45,10 @@ Compared three classifiers on the UCI Cleveland clinical dataset to test whether
 **[Student Absenteeism & Academic Performance](https://github.com/bhavya-dadhich22/absenteeism-and-academic-performance)** (R)  
 Statistical analysis of 480 student records using permutation tests, Welch t-tests and bootstrap confidence intervals to examine how absenteeism relates to performance and engagement.
 
-**[Hybrid RAG Offline Chatbot](https://github.com/bhavya-dadhich22/hybrid-rag-offline-chatbot)** (Python)
+**[Hybrid RAG Offline Chatbot](https://github.com/bhavya-dadhich22/hybrid-rag-offline-chatbot)** (Python)  
 Privacy-preserving chatbot that answers from a local MySQL knowledge base using TF-IDF retrieval and locally hosted LLMs.
 
-**[Live Image Processing App](https://github.com/bhavya-dadhich22/image-filtering-app)** ( Python) | [Live demo ↗](https://bhavya-image-filters.streamlit.app)  
+**[Live Image Processing App](https://github.com/bhavya-dadhich22/image-filtering-app)** (Python) | [Live demo ↗](https://bhavya-image-filters.streamlit.app)  
 OpenCV + Streamlit app with adjustable smoothing, sharpening and edge-detection filters.
 
 ---
