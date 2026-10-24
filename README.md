@@ -5,7 +5,7 @@
 
 I’m a data science student with a background in computer science. I enjoy working with messy data, finding clear answers, and building useful tools.
 
-Open to Summer 2027 internships in data analytics and data science
+Open to Summer 2027 internships in data analytics and data science.
 
 ---
 
